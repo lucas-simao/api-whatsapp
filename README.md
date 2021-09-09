@@ -1,9 +1,13 @@
 # Processo para testar API
 
 1 - Instalar adb no seu PC
+
 2 - Habilitar modo desenvolvedor no celular e habilitar USB debugging
+
 3 - Ter um celular Android com whatsapp instalado
+
 4 - Habilitar no whatsapp a opção de enviar mensagem com a tecla enter em Configurações -> Conversas -> Enviar com Enter
+
 5 - go run api-whatsapp.go
 
 # Rotas da API
